@@ -19,8 +19,10 @@
   "overall_winner": "distilgpt2",
   "biggest_surprise": "Just because of Artificial Intelligence is",
   "stretch_done": false,
-  "stretch_prompt": "",
-  "stretch_observation": "",
+  "stretch_scenario": "",
+  "stretch_evidence": "",
 
+  "tasks_completed": 5,
+  "tasks_total": 5,
   "submitted_at": ""
 }
