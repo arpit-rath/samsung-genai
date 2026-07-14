@@ -1,0 +1,19 @@
+{
+  "day": 2,
+  "student_name": "Arpit Rath",
+  "github": "arpit-rath",
+  "lab1_scenario": "A",
+  "lab1_prompt": "You are a SRM Student Draft an email for applying for a job in an MNC company, the mail should include subject, intro, body, outro and regards Context: You are a 3rd year college student current pursuing B.Tech Cse in SRM University Constraints: the email should not exceed 150 words Tone: Professional, Creative and humble Output format: Ready to send email",
+  "lab1_output_met_constraints": true,
+  "lab1_extra_scenarios_done": 0,
+  "lab2_problem": "Galaxy Buds distribution centre — shipment/hold/restock",
+  "lab2_naive_output_summary": "Gemini and ChatGPT gives detailed output whereas Claude gives exact answer without any added things",
+  "lab2_cot_prompt": "How many Galaxy Buds units are available for sale by end of day given: starts at 4200, sends out 850, holds 6% of remaining stock, restocks 1150? Show step by step working process in detail and even show where restocking is taking place.",
+  "lab2_cot_output_summary": "All the AI's gives same output showing each step in detail",
+  "better_approach": "cot",
+  "stretch_done": true,
+  "stretch_react_prompt": "You are an expert career assistant helping a third-year B.Tech Computer Science student from SRM University.\n\nTask:\nDraft a professional job application email for an MNC.\n\nReasoning:\n- Identify the sender as a third-year B.Tech CSE student at SRM University.\n- Maintain a professional, humble, and slightly creative tone.\n- Include all essential email components: Subject, Introduction, Body, Outro, and Regards.\n- Highlight enthusiasm, willingness to learn, and interest in contributing to the company.\n- Keep the email concise and under 150 words.\n- Ensure the output is grammatically correct and ready to send.\n\nOutput:\nReturn only the complete email with:\n- Subject\n- Greeting\n- Introduction\n- Body\n- Closing\n- Regards",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-14T09:44:35.555Z"
+}
