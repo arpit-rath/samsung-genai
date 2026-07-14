@@ -8,6 +8,9 @@
   "lab2_gradio_url": "https://37ed5c49e2d3499242.gradio.live/",
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 06e3c20e11de0041daaef31fca44db9a597978c0
   "lab": "model_face_off",
   "p1_winner": "HuggingFaceTB/SmolLM2-360M-Instruct",
   "p1_observation": "Shruggles in normal and complex cases",
@@ -20,6 +23,7 @@
   "overall_winner": "distilgpt2",
   "biggest_surprise": "Just because of Artificial Intelligence is",
   "stretch_done": false,
+<<<<<<< HEAD
   "stretch_prompt": "",
   "stretch_observation": "",
 =======
@@ -40,6 +44,8 @@
   "synthesis": "Your 3-5 sentence AI Trust Report",
 
   "stretch_done": false,
+=======
+>>>>>>> 06e3c20e11de0041daaef31fca44db9a597978c0
   "stretch_scenario": "",
   "stretch_evidence": "",
 
