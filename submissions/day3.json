@@ -1,0 +1,20 @@
+{
+  "day": 3,
+  "student_name": "Arpit Rath",
+  "github": "arpit-rath",
+  "ir_hallucination_done": true,
+  "ir_bias_done": true,
+  "ir_guardrail_builder_done": true,
+  "ir_battle_complete": true,
+  "ir_battle_blocked": 8,
+  "ir_battle_total": 8,
+  "rag_scenario": "A",
+  "rag_no_rag_summary": "It was confident in saying no which made it right as well",
+  "rag_grounded_summary": "This time explain in more detail about the policy and what can be done with it",
+  "rag_judgement": "confirmed_right",
+  "stretch_done": false,
+  "stretch_notes": "",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-15T06:18:58.631Z"
+}
