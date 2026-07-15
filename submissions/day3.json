@@ -12,9 +12,9 @@
   "rag_no_rag_summary": "It was confident in saying no which made it right as well",
   "rag_grounded_summary": "This time explain in more detail about the policy and what can be done with it",
   "rag_judgement": "confirmed_right",
-  "stretch_done": false,
-  "stretch_notes": "",
+  "stretch_done": true,
+  "stretch_notes": "The customer is not covered under the Standard Limited Warranty because it expired after 12 months, and a cracked screen is considered accidental damage, which is covered only by an active Samsung Care+ plan. If there is no active Care+ plan, the customer can use Samsung's authorized repair service at their own expense.",
   "tasks_completed": 6,
   "tasks_total": 6,
-  "submitted_at": "2026-07-15T06:18:58.631Z"
+  "submitted_at": "2026-07-15T06:29:45.054Z"
 }
