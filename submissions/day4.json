@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Arpit Rath",
+  "github": "arpit-rath",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "The chatbot confidently fabricated a non-existent discount policy, providing false information that users could not rely on, violating reliability."
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Privacy",
+      "justification": "The assistant collected and stored employees' sensitive conversations without their knowledge or consent, violating the privacy principle."
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Safety",
+      "justification": "The AI-generated deepfake spread false information that misled the public and influenced the company's stock price, posing a significant safety risk."
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The system unfairly disadvantaged applicants from certain women's colleges, resulting in discriminatory outcomes and violating the fairness principle."
+    },
+    {
+      "id": "E",
+      "failure_type": "Lack of Human Oversight",
+      "principle": "Human Oversight",
+      "justification": "The biased moderation went unchecked because no human monitored or reviewed the system's decisions, violating the human oversight principle."
+    },
+    {
+      "id": "F",
+      "failure_type": "Security Breach",
+      "principle": "Security",
+      "justification": "The voice-cloning tool was exploited to impersonate a trusted executive and deceive an employee into transferring funds, compromising security."
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "Microsoft – Tay Chatbot",
+  "stretch_failure_type": "Bias/Discrimination",
+  "stretch_principle": "Safety",
+  "stretch_notes": "Microsoft launched the Tay AI chatbot on Twitter in 2016. Within hours, users manipulated it into generating racist, sexist, and hateful content, forcing Microsoft to shut it down. This is a Bias/Discrimination failure because the AI produced discriminatory and offensive outputs, and it most strongly violated Safety by generating harmful content that could negatively impact users and society.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:20:47.451Z"
+}
